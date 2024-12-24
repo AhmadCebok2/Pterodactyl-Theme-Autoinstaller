@@ -33,5 +33,4 @@ _\* di atas adalah os yang saya test, selebihnya bisa di test sendiri._
 
 ## Credits 
 - Recode by [ TirzzNesia ](https://github.com/Foxstoree)
-- Recode By [ Skyzoe ](https://github.com/SkyzoOffc)
 - Created by [ FOXSTORE ](https://github.com/Foxstoree)
